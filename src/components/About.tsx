@@ -44,7 +44,7 @@ const About = () => {
           <div className="col-span-1 order-2 md:order-1">
             <div className="bg-blue-500/10 dark:bg-blue-500/5 rounded-xl overflow-hidden border border-accent/20">
                {<img
-    src="abhaygill3.png"
+    src="abhaygill3.PNG"
     alt="Profile"
     className="object-cover w-full h-full"
   />}
