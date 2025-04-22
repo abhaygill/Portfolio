@@ -27,7 +27,7 @@ const Hero = () => {
           <div className="hidden md:block bg-blue-500/10 dark:bg-blue-500/5 rounded-2xl p-8 animate-slide-in-right">
             <div className="aspect-square max-w-md mx-auto rounded-xl overflow-hidden bg-gradient-to-br from-accent/40 to-secondary border border-accent/20">
               {<img
-    src="abhaygill.png"
+    src="abhaygill3.png"
     alt="Profile"
     className="object-cover w-full h-full"
   />}
